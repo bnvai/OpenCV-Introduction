@@ -1,0 +1,73 @@
+{
+  "source": "https://sbirchfield.github.io/cvintro/",
+  "parts": [
+    {
+      "id": 1,
+      "title": "Classical 2D Image Processing",
+      "years": "1960-1990",
+      "dir": "part1_classical_2d",
+      "lessons": [
+        {"n": 1, "title": "Images as Arrays", "url": "https://sbirchfield.github.io/cvintro/lessons/lesson01_images_as_arrays.html"},
+        {"n": 2, "title": "Image Arithmetic"},
+        {"n": 3, "title": "Thresholding, Erosion, and Dilation"},
+        {"n": 4, "title": "Flood Fill and Connected Components"},
+        {"n": 5, "title": "Image Moments"},
+        {"n": 6, "title": "Eigenvectors and Eigenvalues of the Moment Covariance Matrix"},
+        {"n": 7, "title": "Distance Measures"},
+        {"n": 8, "title": "Geometric Transformations"},
+        {"n": 9, "title": "Image Warping, Inverse Mapping, and Bilinear Interpolation"},
+        {"n": 10, "title": "Convolution"},
+        {"n": 11, "title": "Smoothing and Gaussian Pyramids"},
+        {"n": 12, "title": "Differentiation and Edge Detection"},
+        {"n": 13, "title": "Second Derivatives and the Laplacian"},
+        {"n": 14, "title": "Nonlinear Filters"},
+        {"n": 15, "title": "The Fourier Transform and Frequency-Domain Filtering"},
+        {"n": 16, "title": "Wavelets and Gabor Filters"},
+        {"n": 17, "title": "Image Compression - Lossless and Lossy"},
+        {"n": 18, "title": "Color Spaces"},
+        {"n": 19, "title": "Clustering - k-Means, GMMs, and DBSCAN"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Classical 3D Computer Vision",
+      "years": "1980-2010",
+      "dir": "part2_classical_3d",
+      "lessons": [
+        {"n": 20, "title": "Feature Detection and Matching"},
+        {"n": 21, "title": "Optical Flow and Motion Estimation"},
+        {"n": 22, "title": "Stereo Matching"},
+        {"n": 23, "title": "Model Fitting, Robust Estimation, and RANSAC"},
+        {"n": 24, "title": "Projective Geometry"},
+        {"n": 25, "title": "Image Stitching and Mosaicking"},
+        {"n": 26, "title": "Image Formation"},
+        {"n": 27, "title": "Camera Calibration"},
+        {"n": 28, "title": "Epipolar Geometry"},
+        {"n": 29, "title": "Structure from Motion"}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Deep Learning for Computer Vision",
+      "years": "2012-2022",
+      "dir": "part3_deep_learning",
+      "lessons": [
+        {"n": 30, "title": "Projection - The Central Idea"},
+        {"n": 31, "title": "Neural Network Fundamentals"},
+        {"n": 32, "title": "Multi-Layer Perceptrons"},
+        {"n": 33, "title": "Optimization"},
+        {"n": 34, "title": "Convolutional Neural Networks"},
+        {"n": 35, "title": "Training a CNN"},
+        {"n": 36, "title": "Image Classification in Practice"},
+        {"n": 37, "title": "Classic Architectures"},
+        {"n": 38, "title": "Transfer Learning"},
+        {"n": 39, "title": "Visualizing and Understanding CNNs"},
+        {"n": 40, "title": "Object Detection from Sliding Windows"},
+        {"n": 41, "title": "Object Detection as Regression"},
+        {"n": 42, "title": "Semantic Segmentation"},
+        {"n": 43, "title": "Instance Segmentation"},
+        {"n": 44, "title": "Precision and Parallel Training"}
+      ]
+    }
+  ]
+}
